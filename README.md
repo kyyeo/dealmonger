@@ -10,5 +10,4 @@
 
 # Creators
 1. [kyyeo](https://github.com/kyyeo)
-2. [Ethan](https://github.com/jedi958)
-3. [Nana](https://github.com/nothingelsewhere)
+
